@@ -1,0 +1,10 @@
+.banner-text {
+
+    background-color: rgba(0, 20, 133, 0.2);
+    font-family: Arial, sans-serif;
+    color: #fff;
+    width: "40 px";
+    height: "15px";
+    padding: "center";
+    margin: "24px";
+  }

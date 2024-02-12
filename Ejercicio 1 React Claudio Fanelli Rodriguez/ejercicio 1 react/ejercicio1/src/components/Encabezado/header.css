@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline; /* Hace que los ítems del menú estén en una línea horizontal */
+    margin-right: 10px; /* Espacio entre los ítems del menú */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  img  {
+    display: inline; /* Hace que los ítems del menú estén en una línea horizontal */
+    margin-right: 0px; /* Espacio entre los ítems del menú */
+  }
+  h1 {
+    font-size: 2.2em;
+    display: inline;
+    
+  }

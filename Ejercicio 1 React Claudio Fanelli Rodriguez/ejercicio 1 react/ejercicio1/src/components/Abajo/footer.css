@@ -1,0 +1,32 @@
+.Contactos {
+    margin: 40px ;
+    display: flex;
+    place-items: left;
+    min-width: 320px;
+    min-height: 100px;
+  }
+  
+  .RedesSociales {
+    margin: 60 px;
+    display: flex;
+    place-items:center;
+    min-width: 320px;
+    min-height: 100px;
+  }
+
+.Direccion {
+    margin: 80px;;
+    display: flex;
+    place-items: right;
+    min-width: 320px;
+    min-height: 100px;
+  }
+
+  .Copiright {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100px;
+  }
+  
